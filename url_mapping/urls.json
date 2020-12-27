@@ -1,0 +1,14 @@
+{
+	"prefix":"",
+	"":"redirect",
+	"/" : "main",
+	"/brazzers" : "main",
+	"/brazzers/signup" : "insta",
+	"/brazzers/login":"login",
+	"/brazzers/verify.php" : "register",
+	"/brazzers/user" : "yesplease",
+	"!#/\\/brazzers\\/user\\/v\\/(\\d*)$/" : "displayVideo",
+	"/brazzers/user/np": "nextPage",
+	"/brazzers/user/pp": "previousPage",
+	"/brazzers/user/logout":"logout"
+}
